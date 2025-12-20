@@ -1,3 +1,6 @@
-fastapi
-uvicorn
-fastapi-jwt-auth
+fastapi==0.125.0
+uvicorn==0.38.0
+fastapi-jwt-auth==0.5.0
+pydantic==1.10.12
+PyJWT==1.7.1
+
