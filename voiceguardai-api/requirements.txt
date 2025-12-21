@@ -1,9 +1,10 @@
 fastapi==0.95.2
-uvicorn==0.22.0
+uvicorn==0.23.2
 pydantic==1.10.13
+python-multipart==0.0.6
 fastapi-jwt-auth==0.5.0
-python-multipart
-slowapi
-python-dotenv
+slowapi==0.1.8
+python-dotenv==1.0.0
+
 
 
