@@ -11,11 +11,12 @@ app = FastAPI(title="VoiceGuard AI")
 # CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
+    allow_origins=["*"],  # allow all for now (safe for demo)
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
 
 # Routers
 app.include_router(auth_router, prefix="/auth", tags=["Auth"])
