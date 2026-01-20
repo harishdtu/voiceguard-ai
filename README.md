@@ -7,7 +7,7 @@ The project demonstrates clean API design, secure authentication, frontend-backe
 
 Frontend (Netlify): 👉 https://voiceguard-ai.netlify.app/
 
-Backend API (Render): 👉 https://voiceguard-ai-1.onrender.com/
+Backend API (Render): 👉 https://voiceguard-ai-u4ri.onrender.com/ //changed
 
 Testing: 👉 Postman
 <img width="1920" height="1080" alt="Screenshot (426)" src="https://github.com/user-attachments/assets/a05d4d57-2a82-416d-bb51-15785a3a4715" />
